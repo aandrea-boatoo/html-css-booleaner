@@ -1,16 +1,53 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: "Roboto", sans-serif;
 }
 
 header{
     height: 100px;
     background-image: url(../img/pattern.png);
-    background-color: #4EA0FF;
-    
+    background-color: #4EA0FF; 
 }
+
 #logo{
     height: 30px;
     margin-left: 20px;
     margin-top: 50px;
+}
+
+h1{
+    font-weight: 800;
+}
+
+.scritta-chiara{
+    color: rgb(116, 115, 115);
+    font-weight: 500;
+}
+
+.highlight{
+    color: cornflowerblue;
+}
+
+.main-section{
+    margin-top: 20px;
+}
+
+.marked{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: 20px;
+}
+
+.header-row{
+    background-color: rgb(108, 198, 214);
+}
+.short-column{
+    width: 150px;
+}
+
+.blue-row{
+    background-color: lightblue;
 }
